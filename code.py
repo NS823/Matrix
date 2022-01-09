@@ -1,3 +1,6 @@
+# прошу присоедениться на сервер Discord: https://discord.gg/KKsZSdS5jk
+# youtube туториал (не мой): https://www.youtube.com/watch?v=XW_2KXxw2RQ&t
+
 import os
 import pygame as pg
 from random import choice, randrange
